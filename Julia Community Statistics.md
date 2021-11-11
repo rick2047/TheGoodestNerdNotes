@@ -10,3 +10,8 @@ Use [[GitHub.jl]] to gather PR information from [[julia]] language repository. M
 	- [ ] Add usage information
 - [ ] Finish the notebook
 - [ ] Finish the blog
+
+## Open Questions
+1. Should I use the main enviornment instead of pluto enviornment.
+	- Currently setup using main enviornment. Mostly because wanted to use the GitHub.jl fork. (In a initial implementation was using GitHub.jl in notebook)
+	- The correct way is to use the pluto enviornments
