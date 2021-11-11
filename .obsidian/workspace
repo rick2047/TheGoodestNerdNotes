@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Julia Community Statistics.md",
+            "file": "Stream.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Julia Community Statistics.md",
+                "file": "Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "d3e40d610c272523",
   "lastOpenFiles": [
-    "Julia Community Statistics.md",
     "Stream.md",
+    "Julia Community Statistics.md",
     "Untitled.md"
   ]
 }

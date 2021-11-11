@@ -6,6 +6,7 @@
 - [ ] Convert setup from VScode to tmux
 - [ ] Figure out the right time to get some audience
 	- 7 pm for me is about middle of the day for US
+- [ ] Dark mode for Pluto
 
 # Possible Topics
 - Inverse kinamatics for GameZero.jl
